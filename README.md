@@ -4,7 +4,7 @@ To get started, you need to read and follow the steps explained along with the e
 
 Additionally, the main.py is a complete code file that you can refer to for a general overview.
 
-### List of tutoruals:
+### List of tutorials:
 
 1. [Factory and Abstract Factory in examples](https://github.com/Design-Patterns-Tutorials/factory-and-abstract-factory-in-examples "Factory and Abstract Factory in examples")
 2. [Dependency Injection and Factory in examples](https://github.com/Design-Patterns-Tutorials/dependency-injection-and-factory-in-examples "Dependency Injection and Factory in examples")
